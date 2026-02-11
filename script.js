@@ -119,8 +119,8 @@ yesBtn.addEventListener("click", () => {
   // Swap to clapping cat
   imgEl.src = yesGif;
 
-  questionEl.textContent = "THANK GAWD I love you 😤";
-  subEl.textContent = "Happy Valentine's Day baby";
+  questionEl.textContent = "THANK GAWD I love you 😤❤️";
+  subEl.textContent = "Ill see you Feb 25th darling";
 
   // Hide both buttons
   noBtn.style.display = "none";

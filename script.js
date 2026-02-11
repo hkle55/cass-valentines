@@ -1,5 +1,5 @@
 // Images
-const startPhoto = "/assests/start.png";
+const startPhoto = "assests/start.png";
 
 const noPhotos = [
   "assests/IMG_1705.png",
@@ -9,7 +9,7 @@ const noPhotos = [
   "assests/DSCF1216.jpeg",
 ];
 
-const yesGif = "/assests/cat-clap.gif";
+const yesGif = "assests/cat-clap.gif";
 
 // Text
 const noMessages = [

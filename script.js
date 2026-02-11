@@ -2,11 +2,11 @@
 const startPhoto = "/assests/start.png";
 
 const noPhotos = [
-  "/assests/IMG_1705.png",
-  "/assests/IMG_0599.png",
-  "/assests/IMG_2518.jpeg",
-  "/assests/IMG_9382.jpeg",
-  "/assests/DSCF1216.jpeg",
+  "assests/IMG_1705.png",
+  "assests/IMG_0599.png",
+  "assests/IMG_2518.jpeg",
+  "assests/IMG_9382.jpeg",
+  "assests/DSCF1216.jpeg",
 ];
 
 const yesGif = "/assests/cat-clap.gif";
